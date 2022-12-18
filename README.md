@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# ✨ Getting Started with Create React App 🚀
+
+👆[Click here](https://avinash905.github.io/react-portfolio-website/) to check out the project
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
